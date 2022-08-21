@@ -75,3 +75,7 @@ h2 {
 #baby-web-developer {
     border-left: 10px solid blue;
 }
+
+footer p {
+    text-align: center;
+}
